@@ -1,2 +1,2 @@
 # Web-Development
-Web projects, some of which I created personally or practiced from tutorials and essential codes which could be needed later...
+Here are some web projects  which I created/recreated following several tutorials for the sake of fun , practice and learning purpose.
